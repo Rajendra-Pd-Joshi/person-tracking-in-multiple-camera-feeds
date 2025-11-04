@@ -134,7 +134,10 @@ ID | Last Seen Camera | Last Seen Time
 
 ## Visual References
 
-* **Sample Input Video:** Demonstrates person detection and tracking.
-* **Sample Output Video:** Shows ReID-based cross-camera tracking results.
+## Sample Input Video
+![Demo](inputSample.gif)
+
+## Sample Output Video
+![Demo](outputSample.gif)
 
 ---
